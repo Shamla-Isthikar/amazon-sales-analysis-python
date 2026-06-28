@@ -75,30 +75,15 @@ The notebook includes the following analyses:
 
 ## Visualizations
 
-The following visualizations were created to better understand the sales data and identify business insights.
+The following visualizations were created during the analysis.
 
-### Sales by State
+| Sales by State | Sales by Category |
+|----------------|-------------------|
+| ![](images/sales_by_state.png) | ![](images/sales_by_category.png) |
 
-![Sales by State](images/sales_by_state.png)
-
----
-
-### Sales by Category
-
-![Sales by Category](images/sales_by_category.png)
-
----
-
-### Monthly Sales Trend
-
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-
----
-
-### Top 10 Products by Sales
-
-![Top 10 Products](images/top_10_products.png)
-
+| Monthly Sales Trend | Top 10 Products by Sales |
+|---------------------|--------------------------|
+| ![](images/monthly_sales_trend.png) | ![](images/top_10_products.png) |
 ---
 
 ## Key Concepts Practiced
@@ -198,3 +183,4 @@ pip install -r requirements.txt
 ## License
 
 This project is shared for educational and portfolio purposes.
+
