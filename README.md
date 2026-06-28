@@ -75,12 +75,27 @@ The notebook includes the following analyses:
 
 ## Visualizations
 
-The project includes the following charts:
+### Sales by State
 
-- 📊 Bar Chart – Sales by State
-- 🥧 Pie Chart – Category-wise Sales
-- 📈 Line Chart – Monthly Sales Trend
-- 📉 Horizontal Bar Chart – Top 10 Products by Sales
+![Sales by State](images/sales_by_state.png)
+
+---
+
+### Category-wise Sales
+
+![Category Sales](images/category_sales.png)
+
+---
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+---
+
+### Top 10 Products by Sales
+
+![Top Products](images/top10_products.png)
 
 ---
 
