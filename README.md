@@ -75,15 +75,17 @@ The notebook includes the following analyses:
 
 ## Visualizations
 
+The following visualizations were created to better understand the sales data and identify business insights.
+
 ### Sales by State
 
 ![Sales by State](images/sales_by_state.png)
 
 ---
 
-### Category-wise Sales
+### Sales by Category
 
-![Category Sales](images/category_sales.png)
+![Sales by Category](images/sales_by_category.png)
 
 ---
 
@@ -95,7 +97,7 @@ The notebook includes the following analyses:
 
 ### Top 10 Products by Sales
 
-![Top Products](images/top10_products.png)
+![Top 10 Products](images/top_10_products.png)
 
 ---
 
